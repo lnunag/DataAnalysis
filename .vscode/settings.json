@@ -12,6 +12,19 @@
             "name": "MySQL Local",
             "database": "parental_leave_db",
             "username": "lnunag"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL Local",
+            "database": "web_page_phishing_db",
+            "username": "lnunag"
         }
     ]
 }
