@@ -1,1 +1,2 @@
-USE web_page_phishing_db;
+-- Data imported through Google Cloud Big Query
+-- Trying to import data through MySQL Workbench was going impossibly slow, table creation in BQ took 2 seconds.
